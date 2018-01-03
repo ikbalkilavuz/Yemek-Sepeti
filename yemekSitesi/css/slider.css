@@ -1,0 +1,63 @@
+* 
+{
+	margin: 0;
+	padding: 0;
+	font:12px Arial bold;
+	border: 0
+}
+
+#Slider
+{
+	min-width: 1268px;
+	height: 650px;
+	margin: 20px;
+	z-index: -1;
+	position: absolute;
+	top:175px;
+	left:125px;
+}
+
+
+.Slider
+{
+	width: 1268px;
+	height:  500px;
+	overflow: hidden;
+}
+
+.Slider ul
+{
+	list-style: none;
+	overflow: hidden;
+}
+
+.Slider ul li
+{
+	min-width: 1268px;
+	height:  500px;
+	float:left;
+}
+
+#sliderButton a
+{
+	color:#fff;
+	background-color:#333;
+	margin: 5px;
+	font:20px Arial bold;
+	text-decoration: none;
+}
+
+
+.leftArrow
+{
+	width:60px;
+	height:60px;
+	float:left;
+}
+
+.rightArrow
+{
+	width:60px;
+	height:60px;
+	float:right;
+}

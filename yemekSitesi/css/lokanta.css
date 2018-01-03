@@ -1,0 +1,38 @@
+*
+{
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+.lokantalar
+{
+	width: 800px;
+	height: 200px;
+	border-color: #000;
+	margin-left: 300px;
+	border:10px red solid;
+
+}
+
+.tablo strong
+{
+	padding:15px;
+	margin:10px;
+	text-decoration: none;
+	font-size:60px Arial bold;
+	color:#000;
+}
+
+.tablo 
+{
+	width:150px;
+	height:30px;
+	background-color:white;
+	margin-bottom:25px;
+}
+
+.tablo td
+{
+	border:10px red solid;
+}
